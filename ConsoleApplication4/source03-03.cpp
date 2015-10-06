@@ -1,0 +1,1 @@
+Big(int n):b(n){v=n;}
